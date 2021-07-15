@@ -13,6 +13,14 @@ body {
   overflow: hidden;
 }
 
+.homeLink {
+  text-decoration: none;
+}
+
+.homeLink:hover {
+  color: blue;
+}
+
 .container {
   display: flex;
   width: 90vw;
