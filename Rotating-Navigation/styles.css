@@ -11,6 +11,12 @@ body {
   overflow-x: hidden;
 }
 
+.container a.homeLink {
+  text-decoration: none;
+  margin-top: 50px;
+  display: inline-block;
+}
+
 .container {
   background-color: #fafafa;
   transform-origin: top left;
